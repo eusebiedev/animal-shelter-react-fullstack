@@ -1,10 +1,10 @@
 # Animal Shelter React Frontend
 
 ### Instructions:
-(quick and dirty, follow instructions in AnimalShelterMonoRepo for info to set up database/C# stuff)
+(follow instructions in AnimalShelterMonoRepo for info to set up database/C#)
 * clone "AnimalShelterMonoRepo" from my repositories
 * cd into AnimalShelterApi directory
-* run dotnet run start
+* run dotnet start
 * navigate to this app's production directory
 * run npm run start
 
